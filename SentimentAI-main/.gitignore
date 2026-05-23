@@ -1,0 +1,5 @@
+__pycache__/
+results/
+history.json
+batch_results.json
+*.pdf
